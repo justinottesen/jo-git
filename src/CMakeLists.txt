@@ -1,3 +1,1 @@
-add_executable(git
-    main.cpp
-)
+add_subdirectory(git)
